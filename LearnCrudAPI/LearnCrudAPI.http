@@ -1,0 +1,10 @@
+@LearnCrudAPI_HostAddress = https://localhost:7113
+
+GET {{LearnCrudAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{LearnCrudAPI_HostAddress}}/api/customer
+
+###
